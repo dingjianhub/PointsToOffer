@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be7e8254-fe6b-4bd8-96c9-fd2ee71471ce" name="Default Changelist" comment="" />
+    <list default="true" id="be7e8254-fe6b-4bd8-96c9-fd2ee71471ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ltd/ryantech/linkedlist/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ltd/ryantech/linkedlist/deleteNode/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ltd/ryantech/linkedlist/reversePrintLinkedList/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ltd/ryantech/linkedlist/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ltd/ryantech/linkedlist/deleteNode/Solution1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ltd/ryantech/linkedlist/reversePrintLinkedList/Solution1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/jerry.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/jerry.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/ryantech/string/replaceSpace/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/ryantech/string/replaceSpace/Solution1.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +28,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/ltd/ryantech/array/findNumberInMatrix/Solution2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ltd/ryantech/linkedlist/deleteNode/Solution1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ltd/ryantech/array/findNumberInMatrix/Solution1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ltd/ryantech/array/findDuplicateNumber/Solution1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ltd/ryantech/array/findDuplicateNumber/Solution2.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ltd/ryantech/array/findNumberInMatrix/Solution3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ltd/ryantech/linkedlist/reversePrintLinkedList/Solution1.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -32,6 +48,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1b3sRvplVlCgv6UlQfjM2PGMKhu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,6 +58,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -46,20 +66,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Solution1 (2)">
-    <configuration name="Solution1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ltd.ryantech.array.findNumberInMatrix.Solution1" />
-      <module name="PointsToOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ltd.ryantech.array.findNumberInMatrix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution1">
     <configuration name="Solution1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ltd.ryantech.string.replaceSpace.Solution1" />
       <module name="PointsToOffer" />
@@ -73,12 +80,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ltd.ryantech.array.findDuplicateNumber.Solution1" />
+    <configuration name="Solution1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ltd.ryantech.linkedlist.reversePrintLinkedList.Solution1" />
       <module name="PointsToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ltd.ryantech.array.findDuplicateNumber.*" />
+          <option name="PATTERN" value="ltd.ryantech.linkedlist.reversePrintLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ltd.ryantech.linkedlist.deleteNode.Solution1" />
+      <module name="PointsToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ltd.ryantech.linkedlist.deleteNode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution1" />
+        <item itemvalue="Application.Solution1 (3)" />
         <item itemvalue="Application.Solution1 (2)" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2 (1)" />
-        <item itemvalue="Application.Solution1 (1)" />
-        <item itemvalue="Application.Solution1" />
       </list>
     </recent_temporary>
   </component>
@@ -132,60 +152,75 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587872106900</updated>
-      <workItem from="1587872108360" duration="9194000" />
+      <workItem from="1587872108360" duration="16275000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="524" y="114" key="#xdebugger.evaluate" timestamp="1587879275078">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="524" y="114" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1587879275078" />
-    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1587886396521">
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1587907661593">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587886396521" />
-    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1587886396520">
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587907661593" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1587907661593">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587886396520" />
-    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1587886396520">
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587907661593" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1587907661593">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587886396520" />
-    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1587886396521">
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587907661593" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1587907661593">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587886396521" />
-    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1587886276949">
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587907661593" />
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1587907559084">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587886276949" />
-    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1587886276949">
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587907559084" />
+    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1587907559084">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587886276949" />
-    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1587886276949">
+    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587907559084" />
+    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1587907559084">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587886276949" />
-    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1587886276949">
+    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587907559084" />
+    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1587907559084">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587886276949" />
+    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587907559084" />
     <state x="270" y="54" key="SettingsEditor" timestamp="1587872560048">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587872560048" />
   </component>
   <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="String.valueOf(chars)" language="JAVA" />
-      </configuration>
-    </watches-manager>
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ltd/ryantech/linkedlist/deleteNode/Solution1.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
