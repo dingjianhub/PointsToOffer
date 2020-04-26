@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be7e8254-fe6b-4bd8-96c9-fd2ee71471ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PointsToOffer" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/ltd/ryantech/array/findNumberInMatrix/Solution2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ltd/ryantech/array/findNumberInMatrix/Solution1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ltd/ryantech/array/findDuplicateNumber/Solution1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ltd/ryantech/array/findDuplicateNumber/Solution2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ltd/ryantech/array/findNumberInMatrix/Solution3.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b3sRvplVlCgv6UlQfjM2PGMKhu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Solution1 (2)">
+    <configuration name="Solution1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ltd.ryantech.array.findNumberInMatrix.Solution1" />
+      <module name="PointsToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ltd.ryantech.array.findNumberInMatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ltd.ryantech.string.replaceSpace.Solution1" />
+      <module name="PointsToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ltd.ryantech.string.replaceSpace.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ltd.ryantech.array.findDuplicateNumber.Solution1" />
+      <module name="PointsToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ltd.ryantech.array.findDuplicateNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ltd.ryantech.array.findNumberInMatrix.Solution2" />
+      <module name="PointsToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ltd.ryantech.array.findNumberInMatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ltd.ryantech.array.findNumberInMatrix.Solution3" />
+      <module name="PointsToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ltd.ryantech.array.findNumberInMatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution1 (2)" />
+        <item itemvalue="Application.Solution3" />
+        <item itemvalue="Application.Solution2 (1)" />
+        <item itemvalue="Application.Solution1 (1)" />
+        <item itemvalue="Application.Solution1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be7e8254-fe6b-4bd8-96c9-fd2ee71471ce" name="Default Changelist" comment="" />
+      <created>1587872106900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587872106900</updated>
+      <workItem from="1587872108360" duration="9194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="114" key="#xdebugger.evaluate" timestamp="1587879275078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="114" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1587879275078" />
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1587886396521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587886396521" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1587886396520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587886396520" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1587886396520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587886396520" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1587886396521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587886396521" />
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1587886276949">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587886276949" />
+    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1587886276949">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587886276949" />
+    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1587886276949">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587886276949" />
+    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1587886276949">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587886276949" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1587872560048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587872560048" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="String.valueOf(chars)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
