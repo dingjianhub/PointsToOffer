@@ -1,4 +1,4 @@
-package ltd.ryantech.linkedlist.reversePrintLinkedList;
+package ltd.ryantech.linkedlist.reversePrintLinkedList5;
 
 import ltd.ryantech.linkedlist.ListNode;
 

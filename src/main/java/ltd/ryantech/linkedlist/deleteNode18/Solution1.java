@@ -1,4 +1,4 @@
-package ltd.ryantech.linkedlist.deleteNode;
+package ltd.ryantech.linkedlist.deleteNode18;
 
 import ltd.ryantech.linkedlist.ListNode;
 

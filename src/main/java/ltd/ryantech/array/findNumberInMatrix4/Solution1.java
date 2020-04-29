@@ -1,4 +1,4 @@
-package ltd.ryantech.array.findNumberInMatrix;
+package ltd.ryantech.array.findNumberInMatrix4;
 
 /**
  * @author ryan
