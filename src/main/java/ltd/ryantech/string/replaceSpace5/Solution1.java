@@ -1,4 +1,4 @@
-package ltd.ryantech.string.replaceSpace;
+package ltd.ryantech.string.replaceSpace5;
 
 /**
  * @author ryan
@@ -20,7 +20,7 @@ public class Solution1 {
 
         int spaceCount = 0;
         for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == '\u0020') {
+            if (s.charAt(i) == '\u0020') { // 空格的 Unicode 编码
                 spaceCount++;
             }
         }

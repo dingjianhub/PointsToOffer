@@ -6,7 +6,7 @@ import ltd.ryantech.linkedlist.ListNode;
  * @author ryan
  * @program PointsToOffer
  * @package_name ltd.ryantech.linkedlist.deleteNode
- * @description 删除链表的节点 其中保证链表中的每个元素 val 不相同
+ * @description 删除链表的节点  其中保证链表中的每个元素 val 不相同
  * @Leetcode_CN_url // https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/
  * @hard_level Easy
  * @create 2020/04/26 19:33
