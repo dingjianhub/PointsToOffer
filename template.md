@@ -22,6 +22,7 @@
 + **[树](https://leetcode-cn.com/tag/tree/)**
 + **[栈](https://leetcode-cn.com/tag/stack/)** 
 + **[设计](https://leetcode-cn.com/tag/design/)** 
++ **[二分查找](https://leetcode-cn.com/tag/binary-search/)** 
 ---
 
 ## 1. 题目描述📃
