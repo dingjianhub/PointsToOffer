@@ -23,13 +23,32 @@
 + **[栈](https://leetcode-cn.com/tag/stack/)** 
 + **[设计](https://leetcode-cn.com/tag/design/)** 
 + **[二分查找](https://leetcode-cn.com/tag/binary-search/)** 
++ **[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search/)**
 ---
 
 ## 1. 题目描述📃
 
  
 
+**样例 1 ：**
 
+```
+
+```
+
+
+
+**样例 2 ：**
+
+```
+
+```
+
+
+
+**注意：**
+
++ 
 
 
 
