@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be7e8254-fe6b-4bd8-96c9-fd2ee71471ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ltd/ryantech/dynamicProgramming/wayOfMartix12/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ltd/ryantech/dynamicProgramming/wayOfMartix12/面试题12_矩阵中的路径.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ltd/ryantech/dynamicProgramming/wayOfMartix12/Solution1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ltd/ryantech/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/ryantech/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.md" beforeDir="false" afterPath="$PROJECT_DIR$/template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ltd/ryantech/dynamicProgramming/wayOfMartix12/面试题12_矩阵中的路径.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ltd/ryantech/dynamicProgramming/wayOfMartix12/面试题12_矩阵中的路径.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +191,9 @@
       <workItem from="1588557082913" duration="4421000" />
       <workItem from="1588674201134" duration="3293000" />
       <workItem from="1588751406914" duration="5392000" />
-      <workItem from="1588761070612" duration="2461000" />
+      <workItem from="1588761070612" duration="3192000" />
+      <workItem from="1588822542768" duration="1083000" />
+      <workItem from="1588841854296" duration="622000" />
     </task>
     <task id="LOCAL-00001" summary="daily update">
       <created>1587907855850</created>
@@ -239,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588603346643</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="daily update&#10;update md files">
+      <created>1588779822875</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588779822875</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,10 +280,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="524" y="114" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1587879275078" />
-    <state x="362" y="0" key="CommitChangelistDialog2" timestamp="1588603345410">
+    <state x="362" y="0" key="CommitChangelistDialog2" timestamp="1588779821031">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="362" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1588603345410" />
+    <state x="362" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1588779821031" />
     <state x="362" y="3" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588172160843" />
     <state width="1349" height="655" key="GridCell.Tab.0.bottom" timestamp="1588761056505">
       <screen x="0" y="0" width="1536" height="824" />
@@ -325,15 +330,15 @@
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1588406015660" />
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587872560048" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1588603350576">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1588779827401">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1588603350576" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1588779827401" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1588172167271" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588751406738">
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588841853949">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1588751406738" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1588841853949" />
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587960708832" />
   </component>
   <component name="XDebuggerManager">
