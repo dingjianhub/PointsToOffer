@@ -1,11 +1,11 @@
-package ltd.ryantech.dynamicProgramming.wayOfMartix12;
+package ltd.ryantech.deepFirstSearch.wayOfMartix12;
 
 /**
  * @author jerry
  * @program PointsToOffer
  * @package_name ltd.ryantech.dynamicProgramming.wayOfMartix12
- * @description 删除链表的节点  其中保证链表中的每个元素 val 不相同
- * @Leetcode_CN_url // https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/
+ * @description 矩阵中的路径
+ * @Leetcode_CN_url // https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/
  * @hard_level Medium
  * @leetcdoe_Tag 动态规划 // https://leetcode-cn.com/tag/dynamic-programming/
  * @create 2020/05/05 18:33
