@@ -7,7 +7,7 @@ package ltd.ryantech.deepFirstSearch.wayOfMartix12;
  * @description 矩阵中的路径
  * @Leetcode_CN_url // https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/
  * @hard_level Medium
- * @leetcdoe_Tag 动态规划 // https://leetcode-cn.com/tag/dynamic-programming/
+ * @leetcdoe_Tag 深度优先遍历 // https://leetcode-cn.com/tag/depth-first-search/
  * @create 2020/05/05 18:33
  **/
 
