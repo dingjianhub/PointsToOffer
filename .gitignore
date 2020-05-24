@@ -1,0 +1,9 @@
+
+.idea/workspace.xml
+.idea/*
+.settings/*
+target/*
+.vscode/*
+./.project
+./.classpath
+./PointsToOffer.iml
