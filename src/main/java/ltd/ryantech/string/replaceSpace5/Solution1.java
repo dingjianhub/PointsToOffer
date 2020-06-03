@@ -4,9 +4,10 @@ package ltd.ryantech.string.replaceSpace5;
  * @author ryan
  * @program PointsToOffer
  * @package_name ltd.ryantech.string.replaceSpace
- * @description 替换空格
- * @Leetcode_CN_url // https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
+ * @description 面试题05. 替换空格
+ * @leetcode_CN_url // https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
  * @hard_level Easy
+ * @tag String // https://leetcode-cn.com/tag/string/
  * @create 2020/04/26 15:07
  **/
 
