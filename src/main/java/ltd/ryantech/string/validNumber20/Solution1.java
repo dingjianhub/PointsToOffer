@@ -4,8 +4,11 @@ package ltd.ryantech.string.validNumber20;
  * @author jerry
  * @program PointsToOffer
  * @package_name ltd.ryantech.string.validNumber20
- * @description
- * @create 2020/06/07 23:11
+ * @description 面试题20. 表示数值的字符串
+ * @leetcode_CN_url // https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/
+ * @hard_level Medium
+ * @tag String // https://leetcode-cn.com/tag/string/
+ * @create 2020/06/14 14:45
  **/
 
 public class Solution1 {
