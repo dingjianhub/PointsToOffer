@@ -1,6 +1,5 @@
 package ltd.ryantech.twoPointers.recorderOddEven21;
 
-
 /**
  * @author jerry
  * @program PointsToOffer
@@ -12,13 +11,18 @@ package ltd.ryantech.twoPointers.recorderOddEven21;
  * @create 2020/06/14 14:47
  **/
 
+@FunctionalInterface
+interface IsEven {
+    boolean isEven(int number);
+}
+
 public class Solution2 {
-    public int[] exchange(int[] nums) {
+    public int[] exchange(int[] nums, IsEven isEven) {
         int front = 0;
         int back = nums.length - 1;
         int tmp = 0;
         while (front < back) {
-            while (front < back && !isEven(nums[front])) {
+            while (front < back && isEven(nums[front])) {
                 front++;
             }
             while (front < back && isEven(nums[back])) {
