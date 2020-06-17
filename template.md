@@ -24,6 +24,7 @@
 + **[设计](https://leetcode-cn.com/tag/design/)** 
 + **[二分查找](https://leetcode-cn.com/tag/binary-search/)** 
 + **[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search/)**
++ **[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search/)**
 + **[位运算](https://leetcode-cn.com/tag/bit-manipulation/)**
 ---
 
@@ -75,7 +76,7 @@
 
 #### 复杂度分析
 
-+ 时间复杂度： `O(1)`    `O(log n)`      `O(n)`      `O(n log n)`  `O(n ^ 2)`。
++ 时间复杂度：`O(1)`    `O(log n)`      `O(n)`      `O(n log n)`  `O(n ^ 2)`。
 + 空间复杂度：`O(1)`    `O(log n)`     `O(n)` 。
 
 
