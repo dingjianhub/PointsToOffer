@@ -17,29 +17,31 @@ import java.util.Stack;
 public class Solution2 {
     // 在可以修改指针的情况下，将指针进行反转，实现从头到尾的打印节点
     // 206. 反转链表 https://leetcode-cn.com/problems/reverse-linked-list/
+
+    private int length = 0;
+
+    public ListNode reverseList(ListNode head) {
+        ListNode pre = null;
+        ListNode cur = head;
+        ListNode tmp = null;
+        while (cur != null) {
+            tmp = cur.next;
+            cur.next = pre;
+            pre = cur;
+            cur = tmp;
+            length++;
+        }
+        // 结束循环时 ，cur 为空指针，pre 为新的头部
+        return pre;
+    }
+
     public int[] reversePrint(ListNode head) {
-        if (head == null) {
-            return new int[0];
-        }
-
-        ListNode cur = null;
-        ListNode pre = head;
-        ListNode t = null;
-        int nodesCounter = 0;
-        while (pre != null) {
-            t = pre.next;
-            pre.next = cur;
-            cur = pre;
-            pre = t;
-            nodesCounter++;
-        }
-
-        int[] res = new int[nodesCounter];
-        ListNode p = cur;
-        int i = 0;
-        while (p != null) {
-            res[i++] = p.val;
-            p = p.next;
+        ListNode tmp = reverseList(head);
+        int[] res = new int[length];
+        int idx = 0;
+        while (tmp != null) {
+            res[idx++] = tmp.val;
+            tmp = tmp.next;
         }
         return res;
     }

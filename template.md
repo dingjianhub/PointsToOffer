@@ -21,6 +21,7 @@
 + **[数组](https://leetcode-cn.com/tag/array/)**
 + **[树](https://leetcode-cn.com/tag/tree/)**
 + **[栈](https://leetcode-cn.com/tag/stack/)** 
++ **[队列](https://leetcode-cn.com/tag/queue/)**
 + **[设计](https://leetcode-cn.com/tag/design/)** 
 + **[二分查找](https://leetcode-cn.com/tag/binary-search/)** 
 + **[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search/)**

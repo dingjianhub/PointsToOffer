@@ -28,9 +28,11 @@ public class Solution1 {
             return -1;
         }
         int rightSubtree = dfs(root.right);
+        // 如果 -1 ，那么发现了非平衡的情况，直接返回 -1，结束判定
         if (rightSubtree == -1) {
             return -1;
         }
+        // 如果深度差 不满足 平衡树的定义，返回 -1 (其实可以返回 0 以下的任意数字)
         return Math.abs(leftSubtree - rightSubtree) <= 1 ? Math.max(leftSubtree, rightSubtree) + 1 : -1;
     }
 

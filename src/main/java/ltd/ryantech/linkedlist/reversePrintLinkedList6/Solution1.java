@@ -2,6 +2,8 @@ package ltd.ryantech.linkedlist.reversePrintLinkedList6;
 
 import ltd.ryantech.linkedlist.ListNode;
 
+import java.util.Deque;
+import java.util.LinkedList;
 import java.util.Stack;
 
 /**
@@ -21,17 +23,16 @@ public class Solution1 {
             return new int[0];
         }
 
-        ListNode newHead = head;
-        Stack<ListNode> stack = new Stack<>();
-        while (newHead != null) {
-            stack.push(newHead);
-            newHead = newHead.next;
+        ListNode cur = head;
+        Deque<Integer> stack = new LinkedList<>();
+        while (cur != null) {
+            stack.offerFirst(cur.val);
+            cur = cur.next;
         }
         int[] res = new int[stack.size()];
-        int p = 0;
+        int idx = 0;
         while (!stack.isEmpty()) {
-            res[p] = stack.pop().val;
-            p++;
+            res[idx++] = stack.pollFirst();
         }
         return res;
     }
