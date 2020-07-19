@@ -33,6 +33,6 @@ class SolutionKT2 {
 }
 
 fun main(args: Array<String>) {
-    var nums:IntArray = intArrayOf(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 11);
+    var nums: IntArray = intArrayOf(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 11);
     println(SolutionKT2().findRepeatNumber(nums))
 }

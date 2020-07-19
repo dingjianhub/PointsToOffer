@@ -12,6 +12,7 @@ package ltd.ryantech.dynamicProgramming.cuttingRope14;
  **/
 
 public class Solution2 {
+
     public int cuttingRope(int n) {
         if (n < 2) {
             return 0; // 题目中给定 n >= 2

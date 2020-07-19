@@ -12,6 +12,7 @@ package ltd.ryantech.dynamicProgramming.cuttingRope14;
  **/
 
 public class Solution1 {
+    // 自下而上 求解每个长度的最优解。存储在 dp[] 中
     public int cuttingRope(int n) {
         if (n < 2) {
             return 0; // 题目中给定 n >= 2
@@ -46,7 +47,7 @@ public class Solution1 {
 
 
     public static void main(String[] args) {
-        int n = 10;
-        System.out.println(new Solution1().cuttingRope(n));
+        System.out.println(new Solution1().cuttingRope(2));
+        System.out.println(new Solution1().cuttingRope(10));
     }
 }

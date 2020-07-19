@@ -20,7 +20,7 @@ public class Solution1 {
         }
 
         int left = 0;
-        int right = numbers.length -1;
+        int right = numbers.length - 1;
         int mid;
         while (left < right) {
             mid = left + (right - left) / 2;
@@ -38,7 +38,7 @@ public class Solution1 {
     public static void main(String[] args) {
         int[] numbers = {3, 4, 5, 1, 2};
         System.out.println(new Solution1().minArray(numbers));
-        int[] numbers1 = {1,0,1,1,1};
+        int[] numbers1 = {1, 0, 1, 1, 1};
         System.out.println(new Solution1().minArray(numbers1));
     }
 }

@@ -21,7 +21,7 @@ public class Solution2 {
             map.put(c, map.getOrDefault(c, 0) + 1);
         }
         for (Character c : s.toCharArray()) {
-            if ( map.get(c) == 1) {
+            if (map.get(c) == 1) {
                 return c;
             }
         }

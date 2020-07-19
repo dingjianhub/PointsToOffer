@@ -38,7 +38,7 @@ public class App {
 
         Integer[] l = {1, 2, 3, 4, 5, 6};
         Stream<Integer> b = Stream.of(l);
-        Comparator<Integer> comparator = (x,y) -> (x.intValue() < y.intValue()) ? -1 : ((x.equals(y)) ? 0 : 1);
+        Comparator<Integer> comparator = (x, y) -> (x.intValue() < y.intValue()) ? -1 : ((x.equals(y)) ? 0 : 1);
 //        System.out.println(b.max(comparator).get());
         b.filter(e -> e.intValue() > 4).forEach(e -> System.out.println(e));
     }

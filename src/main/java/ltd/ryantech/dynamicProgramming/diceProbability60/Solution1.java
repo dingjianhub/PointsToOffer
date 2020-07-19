@@ -14,7 +14,7 @@ package ltd.ryantech.dynamicProgramming.diceProbability60;
 public class Solution1 {
     int g_maxValue = 6;
 
-    public  void probability() {
+    public void probability() {
 
     }
 
