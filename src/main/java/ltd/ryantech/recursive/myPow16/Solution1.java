@@ -18,11 +18,28 @@ public class Solution1 {
             return 0;
         }
 
-
-        return -1;
+        double res = 1.0;
+        if (n > 0) {
+            for (int i = 0; i < n; i++) {
+                res = res * x;
+            }
+            return res;
+        } else if (n < 0) {
+            int t = Math.abs(n);
+            for (int i = 0; i < t; i++) {
+                res = res * x;
+            }
+            return 1 / res;
+        } else {
+            return 1.0;
+        }
     }
 
     public static void main(String[] args) {
         System.out.println(new Solution1().myPow(2.000, 10));
+        System.out.println(new Solution1().myPow(2.10000, 3));
+        System.out.println(new Solution1().myPow(2.0000, -2));
+        System.out.println(new Solution1().myPow(0.44528, 0));
+        System.out.println(new Solution1().myPow(1.0000, 2147483647));
     }
 }
