@@ -7,7 +7,7 @@ package ltd.ryantech.twoPointers.recorderOddEven21;
  * @description 面试题21. 调整数组顺序使奇数位于偶数前面
  * @leetcode_CN_url // https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/
  * @hard_level Easy
- * @tag Two Pointers // https://leetcode-cn.com/tag/binary-search/
+ * @tag Two Pointers // https://leetcode-cn.com/tag/two-pointers/
  * @create 2020/06/14 14:35
  **/
 
