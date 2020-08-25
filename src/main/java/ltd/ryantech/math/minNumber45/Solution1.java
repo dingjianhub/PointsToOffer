@@ -14,6 +14,7 @@ import java.util.Arrays;
  **/
 
 public class Solution1 {
+    // 调用类库的快排
     public String minNumber(int[] nums) {
         String[] strs = new String[nums.length];
         for (int i = 0; i < nums.length; i++)
