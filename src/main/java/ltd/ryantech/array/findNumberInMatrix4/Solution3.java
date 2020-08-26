@@ -26,6 +26,7 @@ public class Solution3 {
         for (int row = 0; row < matrix.length; row++) {
             low = 0;
             high = matrix[0].length - 1;
+            // 注意此处的 while 循环的条件
             while (low <= high) {
                 mid = low + (high - low) / 2;
                 if (matrix[row][mid] == target) {

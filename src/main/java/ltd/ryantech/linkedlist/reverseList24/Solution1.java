@@ -18,13 +18,13 @@ public class Solution1 {
     public ListNode reverseList(ListNode head) {
         ListNode cur = null;
         ListNode pre = head;
-        ListNode t = null;
+        ListNode tmp = null;
         // 若 head 为 null 则跳过 while 循环，返回 cur = null
         while (pre != null) {
-            t = pre.next;
+            tmp = pre.next;
             pre.next = cur;
             cur = pre;
-            pre = t;
+            pre = tmp;
         }
         return cur;
     }

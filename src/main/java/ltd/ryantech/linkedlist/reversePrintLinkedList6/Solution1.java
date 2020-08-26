@@ -10,7 +10,7 @@ import java.util.Stack;
  * @author ryan
  * @program PointsToOffer
  * @package_name ltd.ryantech.linkedlist.reversePrintLinkedList
- * @description 从尾到头打印链表
+ * @description 剑指 Offer 06. 从尾到头打印链表
  * @Leetcode_CN_url // https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
  * @hard_level Easy
  * @create 2020/04/26 18:28

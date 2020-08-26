@@ -1,11 +1,6 @@
 package ltd.ryantech.hashmap.firstUniqChar50;
 
-import com.sun.org.apache.regexp.internal.RE;
-
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.LinkedHashMap;
-import java.util.Map;
 
 /**
  * @author jerry
