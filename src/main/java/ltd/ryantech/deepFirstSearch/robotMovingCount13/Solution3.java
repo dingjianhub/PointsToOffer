@@ -29,7 +29,7 @@ public class Solution3 {
             visited[i][j] = true;
             res++;
             // BFS 方向为 下 右
-            queue.add(new int[]{i + 1, j, (i + 1 % 10) != 0 ? si + 1 : si - 8, sj});
+            queue.add(new int[]{i + 1, j, (i + 1) % 10 != 0 ? si + 1 : si - 8, sj});
             queue.add(new int[]{i, j + 1, si, (j + 1) % 10 != 0 ? sj + 1 : sj - 8});
         }
         return res;

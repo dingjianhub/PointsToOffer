@@ -4,7 +4,7 @@ package ltd.ryantech.deepFirstSearch.wayOfMartix12;
  * @author jerry
  * @program PointsToOffer
  * @package_name ltd.ryantech.dynamicProgramming.wayOfMartix12
- * @description 矩阵中的路径
+ * @description 剑指 Offer 12. 矩阵中的路径
  * @Leetcode_CN_url // https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/
  * @hard_level Medium
  * @leetcdoe_Tag 深度优先遍历 // https://leetcode-cn.com/tag/depth-first-search/

@@ -29,7 +29,7 @@ public class Solution1 {
             } else if (numbers[mid] < numbers[right]) {
                 right = mid;
             } else {
-                right--;
+                right--; // 简约而不简单
             }
         }
         return numbers[left];
