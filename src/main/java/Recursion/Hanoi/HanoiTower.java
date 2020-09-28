@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Hanoi;
 
 import java.util.Deque;
 import java.util.LinkedList;
@@ -90,14 +90,14 @@ public class HanoiTower {
     }
 
     public static void main(String[] args) {
-//        HanoiTower hanoiTower = new HanoiTower();
-//        System.out.println("n = 3 下的移动路径");
-//        hanoiTower.move(3, 'x', 'y', 'z');
-//        System.out.println("n = 6 下的移动路径");
-//        hanoiTower.move(6, 'x', 'y', 'z');
+        HanoiTower hanoiTower = new HanoiTower();
+        System.out.println("n = 3 下的移动路径");
+        hanoiTower.move(3, 'x', 'y', 'z');
+        System.out.println("n = 6 下的移动路径");
+        hanoiTower.move(6, 'x', 'y', 'z');
 
-        HanoiTower hanoiTower1 = new HanoiTower();
-        System.out.println("n = 3 下的移动路径 非递归");
-        hanoiTower1.moveUsingStack(3, 'x', 'y', 'z');
+//        HanoiTower hanoiTower1 = new HanoiTower();
+//        System.out.println("n = 3 下的移动路径 非递归");
+//        hanoiTower1.moveUsingStack(3, 'x', 'y', 'z');
     }
 }

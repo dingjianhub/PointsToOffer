@@ -71,7 +71,7 @@ public class MergeSort {
 
 
     public static void main(String[] args) {
-        int[] res1 = new int[]{3, 1, 2, 4, 5, 6, 7, 8, 9};
+        int[] res1 = new int[]{3, 1, 4, 2, 5, 8, 6, 9, 7};
         mergeSort(res1, 0, 8);
         System.out.println("归并排序 升序排序 " + Arrays.toString(res1));
     }
