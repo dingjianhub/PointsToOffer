@@ -20,6 +20,7 @@ public class Solution3 {
             return -1;
         }
 
+        // 特判，如果存在有数字范围超过了给定的范围，那么直接返回 -1
         for (int i : nums) {
             if (i < 0 || i > nums.length - 1) {
                 return -1;

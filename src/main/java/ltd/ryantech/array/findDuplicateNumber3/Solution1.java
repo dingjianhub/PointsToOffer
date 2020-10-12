@@ -4,7 +4,7 @@ package ltd.ryantech.array.findDuplicateNumber3;
  * @author ryan
  * @program PointsToOffer
  * @package_name ltd.ryantech.array.findDuplicateNumber
- * @description 数组中重复的数字
+ * @description 剑指 Offer 03. 数组中重复的数字
  * @Leetcode_CN_url //https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
  * @hard_level Easy
  * @create 2020/04/26 11:38
@@ -16,6 +16,7 @@ public class Solution1 {
             return -1;
         }
 
+        // 特判，如果存在有数字范围超过了给定的范围，那么直接返回 -1
         for (int num : nums) {
             if (num < 0 || num > nums.length - 1) {
                 return -1;

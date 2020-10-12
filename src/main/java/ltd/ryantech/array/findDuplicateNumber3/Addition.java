@@ -8,8 +8,16 @@ package ltd.ryantech.array.findDuplicateNumber3;
  * @create 2020/08/25 11:11
  **/
 
+/**
+ * 《剑指 Offer》 中给出的拓展
+ * 不修改数组找出重复的数字。
+ * 在一个长度 n + 1 的数组里的所有都在 1 ~ n 的范围内
+ * 所以数组中至少有一个数字是重复的
+ * 请找出数组中任意一个重复的数字，但不能修改输入的数组。
+ * 例如：如果输入的长度为 8 的数组 {2,3,5,4,3,2,6,7}，那么输出的重复数字应该是 2 或者 3
+ */
 public class Addition {
-    //
+
     public int getDuplication(int[] nums) {
         if (nums == null || nums.length == 0) {
             return -1;

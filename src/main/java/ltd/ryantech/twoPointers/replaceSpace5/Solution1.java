@@ -1,9 +1,9 @@
-package ltd.ryantech.string.replaceSpace5;
+package ltd.ryantech.twoPointers.replaceSpace5;
 
 /**
  * @author ryan
  * @program PointsToOffer
- * @package_name ltd.ryantech.string.replaceSpace
+ * @package_name ltd.ryantech.twoPointers.replaceSpace
  * @description 面试题05. 替换空格
  * @leetcode_CN_url // https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
  * @hard_level Easy
