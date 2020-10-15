@@ -20,12 +20,13 @@ public class Solution2 {
         Deque<Integer> stack = new LinkedList<>();
         int idx = 0;
         for (int num : pushed) {
-            stack.offerFirst(num);
-            while (!stack.isEmpty() && stack.peekFirst() == popped[idx]) {
-                stack.pollFirst();
+            stack.offerLast(num);
+            while (!stack.isEmpty() && stack.peekLast() == popped[idx]) {
+                stack.pollLast();
                 idx++;
             }
         }
+
         return stack.isEmpty();
     }
 

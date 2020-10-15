@@ -22,8 +22,8 @@ public class Solution1 {
     public boolean validateStackSequences(int[] pushed, int[] popped) {
         Deque<Integer> pushedStack = new LinkedList<>();
         Deque<Integer> poppedStack = new LinkedList<>();
-        for (int i = 0; i < popped.length; i++) {
-            poppedStack.offerLast(popped[i]);
+        for (int j : popped) {
+            poppedStack.offerLast(j);
         }
         int idx = 0;
         // 题目给定了 pushed.length == popped.length
